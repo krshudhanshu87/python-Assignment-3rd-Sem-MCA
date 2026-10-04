@@ -1,0 +1,37 @@
+{
+    "books": [
+        {
+            "id": "1",
+            "title": "Python",
+            "author": "mai hi hu",
+            "issued": false,
+            "issued_to": "",
+            "issue_date": "",
+            "due_date": ""
+        },
+        {
+            "id": "2",
+            "title": "c ka book",
+            "author": "pta nhi",
+            "issued": false,
+            "issued_to": "",
+            "issue_date": "",
+            "due_date": ""
+        },
+        {
+            "id": "3",
+            "title": "java ka book",
+            "author": "Tu hi hoga",
+            "issued": false,
+            "issued_to": "",
+            "issue_date": "",
+            "due_date": ""
+        }
+    ],
+    "users": [
+        {
+            "id": "1",
+            "name": "shudhanshu"
+        }
+    ]
+}
