@@ -1,0 +1,23 @@
+[
+    {
+        "account_no": "ACC1001",
+        "name": "shudhanshu kumar",
+        "type": "Savings",
+        "pin": "1234",
+        "balance": 40000.0
+    },
+    {
+        "account_no": "ACC1002",
+        "name": "suman kumari",
+        "type": "Savings",
+        "pin": "1234",
+        "balance": 320000.0
+    },
+    {
+        "account_no": "ACC1003",
+        "name": "anjali kumari",
+        "type": "Savings",
+        "pin": "1234",
+        "balance": 60000.0
+    }
+]
