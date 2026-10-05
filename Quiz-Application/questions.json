@@ -1,0 +1,26 @@
+[
+    {
+        "category": "Python",
+        "question": "Which keyword is used to define a function?",
+        "options": ["func", "define", "def", "function"],
+        "answer": "def"
+    },
+    {
+        "category": "Python",
+        "question": "Which data type is immutable?",
+        "options": ["List", "Dictionary", "Set", "Tuple"],
+        "answer": "Tuple"
+    },
+    {
+        "category": "General Knowledge",
+        "question": "Capital of India?",
+        "options": ["Mumbai", "Delhi", "Chennai", "Kolkata"],
+        "answer": "Delhi"
+    },
+    {
+        "category": "General Knowledge",
+        "question": "Largest planet in our solar system?",
+        "options": ["Earth", "Mars", "Jupiter", "Venus"],
+        "answer": "Jupiter"
+    }
+]
