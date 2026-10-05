@@ -1,0 +1,34 @@
+[
+    {
+        "source": "S:\\Programming Language\\Python Programming\\Documents\\file_1.txt",
+        "destination": "S:\\Programming Language\\Python Programming\\file_1.txt"
+    },
+    {
+        "source": "S:\\Programming Language\\Python Programming\\Documents\\file_2.txt",
+        "destination": "S:\\Programming Language\\Python Programming\\file_2.txt"
+    },
+    {
+        "source": "S:\\Programming Language\\Python Programming\\Documents\\file_4.txt",
+        "destination": "S:\\Programming Language\\Python Programming\\file_4.txt"
+    },
+    {
+        "source": "S:\\Programming Language\\Python Programming\\Documents\\file_5.txt",
+        "destination": "S:\\Programming Language\\Python Programming\\file_5.txt"
+    },
+    {
+        "source": "S:\\Programming Language\\Python Programming\\Images\\MY_PHOTO.jpg",
+        "destination": "S:\\Programming Language\\Python Programming\\MY_PHOTO.jpg"
+    },
+    {
+        "source": "S:\\Programming Language\\Python Programming\\Images\\my_photo2.jpg",
+        "destination": "S:\\Programming Language\\Python Programming\\my_photo2.jpg"
+    },
+    {
+        "source": "S:\\Programming Language\\Python Programming\\Images\\my_photo3.jpg",
+        "destination": "S:\\Programming Language\\Python Programming\\my_photo3.jpg"
+    },
+    {
+        "source": "S:\\Programming Language\\Python Programming\\Documents\\notes.txt",
+        "destination": "S:\\Programming Language\\Python Programming\\notes.txt"
+    }
+]
